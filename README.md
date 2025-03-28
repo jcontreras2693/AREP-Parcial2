@@ -29,7 +29,7 @@ The format of the output and response should be a JSON in the following format:
 }
 ```
 
-# Algorithm
+## Algorithm
 ![image](https://github.com/user-attachments/assets/ea45461d-53f6-4e3c-a221-93ca5f2401fd)
 
 ## Local Deployment
