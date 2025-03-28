@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parcial 2</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<h1>Lucas Sequence</h1>
+<form action="/search">
+    <label for="value">Value:</label><br>
+    <input type="text" id="value" name="value"><br><br>
+    <input type="button" value="Submit" onclick="search()">
+</form>
+<pre id="response"></pre>
+
+<script>
+    function search() {
+        let value = document.getElementById("value").value;
+        const xhttp = new XMLHttpRequest();
+        xhttp.onload = function() {
+            document.getElementById("response").innerHTML =
+            this.responseText;
+        }
+        xhttp.open("GET", "/proxy?value=" + value);
+        xhttp.send();
+    }
+</script>
+</body>
+</html>
