@@ -44,6 +44,10 @@ The format of the output and response should be a JSON in the following format:
 
 ## AWS Deployment
 
+- Files uploaded
+
+![image](https://github.com/user-attachments/assets/555367a1-765b-4ec3-9b25-0b1276683ed4)
+
 - Environment Variables
 
 ![image](https://github.com/user-attachments/assets/e6a386fe-5306-448b-bba6-96841c2892bf)
