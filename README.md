@@ -44,6 +44,20 @@ The format of the output and response should be a JSON in the following format:
 
 ## AWS Deployment
 
+- EC2 Proxy
+
+![image](https://github.com/user-attachments/assets/4910a1b2-b8c5-4dfa-af7d-cd522106c179)
+
+- EC2 Math 1
+
+![image](https://github.com/user-attachments/assets/4533edcc-1b6a-494b-83e1-635265c63241)
+
+- EC2 Math 2
+
+![image](https://github.com/user-attachments/assets/f3e8db4d-ff20-4c71-be9e-264f1a6ed4a4)
+
+## Classwork Trail
+
 - Files uploaded
 
 ![image](https://github.com/user-attachments/assets/555367a1-765b-4ec3-9b25-0b1276683ed4)
@@ -53,21 +67,9 @@ The format of the output and response should be a JSON in the following format:
 ![image](https://github.com/user-attachments/assets/e6a386fe-5306-448b-bba6-96841c2892bf)
 ![image](https://github.com/user-attachments/assets/9e2e99e6-1b0d-4c17-9653-24ef2d96a85a)
 
-- EC2 Proxy
-
-![image](https://github.com/user-attachments/assets/4910a1b2-b8c5-4dfa-af7d-cd522106c179)
-
 - Round Robin
 
 ![image](https://github.com/user-attachments/assets/4aa9a429-b9a7-496b-9cb2-4940056de69f)
-
-- EC2 Math 1
-
-![image](https://github.com/user-attachments/assets/4533edcc-1b6a-494b-83e1-635265c63241)
-
-- EC2 Math 2
-
-![image](https://github.com/user-attachments/assets/f3e8db4d-ff20-4c71-be9e-264f1a6ed4a4)
 
 ## Authors
 - *Juan David Contreras* | [AREP-Parcial2](https://github.com/jcontreras2693/AREP-Parcial2.git)
